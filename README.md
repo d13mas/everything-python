@@ -4,7 +4,7 @@ I'll be creating Python PoC with different objectives:
 
 - Testing libraries
 - Testing algorithms
-- Optimizing complexity abd use of resources
+- Optimizing complexity and use of resources
 - etc.
 
 ## bfs.py

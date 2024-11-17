@@ -10,6 +10,7 @@ I'll be creating Python PoC with different objectives:
 ## bfs.py
 
 This function implements a simple `Breath First Search` algorithm version
+
 TO DO:
 
 - Implement the queue
